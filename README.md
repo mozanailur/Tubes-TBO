@@ -1,6 +1,6 @@
 # Tubes-TBO
 
-Link Tugas Besar untuk mata kuliah Teori Bahasa dan Auotomata.
+Pada link Github ini digunakan untuk memuat file-file program dalam tugas besar untuk mata kuliah Teori Bahasa dan Auotomata.
 
 Anggota Kelompok : 
 1. Anggit Pangestu [190535746100]
